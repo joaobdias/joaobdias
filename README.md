@@ -8,12 +8,11 @@
   Caso queira entrar em contato, pode mandar uma mensagem pelo https://www.linkedin.com/in/joaobdias/
 </p>
 
-<p>
-  Caso esteja disponível, dê uma olhada nos meus projetos:
-  EasyBuy -> https://joaobdias.github.io/EasyBuy/
-  BomdeBoca -> https://joaobdias.github.io/bomdeboca/
-  I.A Flappy Bird (Redes Neurais) -> https://github.com/joaobdias/Artificial-Neural-Network---Flappy-Bird
-</p>
+<ul> Caso esteja disponível, dê uma olhada nos meus projetos:
+  <li></li>EasyBuy -> https://joaobdias.github.io/EasyBuy/
+  <li></li>BomdeBoca -> https://joaobdias.github.io/bomdeboca/
+  <li></li>I.A Flappy Bird (Redes Neurais) -> https://github.com/joaobdias/Artificial-Neural-Network---Flappy-Bird
+</ul>
 <!--
 **joaobdias/joaobdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
