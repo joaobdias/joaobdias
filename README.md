@@ -6,9 +6,11 @@
   Sou João Pedro, formado em Engenharia de Computação e atualmente trabalho como Agente de Tecnologia no Banco do Brasil.
   Não sou muito ativo no Github e não estou trabalhando/colaborando atualmente em nenhum projeto exceto os do próprio banco.
   Caso queira entrar em contato, pode mandar uma mensagem pelo https://www.linkedin.com/in/joaobdias/
+
+  Caso esteja disponível, dê uma olhada nos meus projetos:
 </p>
 
-<ul> Caso esteja disponível, dê uma olhada nos meus projetos:
+<ul> 
   <li>EasyBuy -> https://joaobdias.github.io/EasyBuy/</li>
   <li>BomdeBoca -> https://joaobdias.github.io/bomdeboca/</li>
   <li>I.A Flappy Bird (Redes Neurais) -> https://github.com/joaobdias/Artificial-Neural-Network---Flappy-Bird</li>
