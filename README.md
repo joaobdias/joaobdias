@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1>
+  Bem vindo (a)!
+</h1>
 
+<p>
+  Sou João Pedro, formado em Engenharia de Computação e atualmente trabalho como Agente de Tecnologia no Banco do Brasil.
+  Não sou muito ativo no Github e não estou trabalhando/colaborando atualmente em nenhum projeto exceto os do próprio banco.
+  Caso queira entrar em contato, pode mandar uma mensagem pelo https://www.linkedin.com/in/joaobdias/
+</p>
 <!--
 **joaobdias/joaobdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
