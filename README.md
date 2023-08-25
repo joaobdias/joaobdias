@@ -7,6 +7,13 @@
   Não sou muito ativo no Github e não estou trabalhando/colaborando atualmente em nenhum projeto exceto os do próprio banco.
   Caso queira entrar em contato, pode mandar uma mensagem pelo https://www.linkedin.com/in/joaobdias/
 </p>
+
+<p>
+  Caso esteja disponível, dê uma olhada nos meus projetos:
+  EasyBuy -> https://joaobdias.github.io/EasyBuy/
+  BomdeBoca -> https://joaobdias.github.io/bomdeboca/
+  I.A Flappy Bird (Redes Neurais) -> https://github.com/joaobdias/Artificial-Neural-Network---Flappy-Bird
+</p>
 <!--
 **joaobdias/joaobdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
